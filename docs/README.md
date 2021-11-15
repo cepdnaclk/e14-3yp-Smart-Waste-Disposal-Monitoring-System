@@ -10,9 +10,9 @@ title: Smart Waste-Disposal Monitoring System
 ---
 
 ## Team
--  E/14/122, Ahmedh J.R., [e14122@eng.pdn.ac.lk](mailto:e14122@eng.pdn.ac.lk)
--  E/14/213, Ariyarathna K.G.D. N., [e14213@eng.pdn.ac.lk](mailto:e14213@eng.pdn.ac.lk)
--  E/14/144, Jaseel M.I. A., [e14144@eng.pdn.ac.lk](mailto:e14144@eng.pdn.ac.lk)
+-  E/14/122, Ahmedh J.R., [e14122@ce.pdn.ac.lk](mailto:e14122@ce.pdn.ac.lk)
+-  E/14/213, Ariyarathna K.G.D. N., [e14213@ce.pdn.ac.lk](mailto:e14213@ce.pdn.ac.lk)
+-  E/14/144, Jaseel M.I. A., [e14144@ce.pdn.ac.lk](mailto:e14144@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -81,7 +81,7 @@ This process will indicate all the bins which require attention, leading the use
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Smart-Waste-Disposal-Monitoring-System" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Smart-Waste-Disposal-Monitoring-System/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 
